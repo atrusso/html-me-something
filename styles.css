@@ -13,17 +13,6 @@ img {
     margin: 0 auto;
 }
 
-#tableofcontents {
-    margin-top: 20px;
-    margin-bottom: 20px;
-    margin-left: 50px;
-    margin-right: 50px;
-    border: 5px red;
-    border-style: solid;
-    border-radius: 3%;
-    background-color: #EED6D6;
-}
-
 #video {
     display: block;
     margin: 0 auto;
